@@ -14,7 +14,7 @@ How to Use
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/ankitkumarvarshney/task-manager.git
+git clone https://github.com/ankitkumarvarshney/TaskMgmt.git
 cd task-manager
 2. Run the Program
 bash
